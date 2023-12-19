@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shoes-shop/static/css/main.340e86ad.css",
+    "main.js": "/shoes-shop/static/js/main.ee8091e7.js",
+    "static/media/bg.png": "/shoes-shop/static/media/bg.7aad3f7942735a3486b5.png",
+    "static/media/Roboto-Regular.ttf": "/shoes-shop/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Raleway-Bold.ttf": "/shoes-shop/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
+    "static/media/img3.jpg": "/shoes-shop/static/media/img3.94e64344a3f2c80d2e82.jpg",
+    "static/media/img2.jpg": "/shoes-shop/static/media/img2.166ea3b18ba1c9c1f857.jpg",
+    "static/media/img6.jpg": "/shoes-shop/static/media/img6.f3908affcb05e62684a9.jpg",
+    "static/media/img1.jpg": "/shoes-shop/static/media/img1.9d621a9755fae516641b.jpg",
+    "static/media/img4.jpg": "/shoes-shop/static/media/img4.8ceff7c4b56d4c8dd465.jpg",
+    "static/media/img5.jpg": "/shoes-shop/static/media/img5.042766805d60f8a012d0.jpg",
+    "static/media/img9.jpg": "/shoes-shop/static/media/img9.baf6b2be23e70131714a.jpg",
+    "static/media/img7.jpg": "/shoes-shop/static/media/img7.25ce9551b84e107b5c5e.jpg",
+    "static/media/img8.jpg": "/shoes-shop/static/media/img8.142b5bbdc1a782efe6c5.jpg",
+    "index.html": "/shoes-shop/index.html",
+    "static/media/cart.svg": "/shoes-shop/static/media/cart.987c5aad68251ae29862520fefd247ce.svg",
+    "main.340e86ad.css.map": "/shoes-shop/static/css/main.340e86ad.css.map",
+    "main.ee8091e7.js.map": "/shoes-shop/static/js/main.ee8091e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.340e86ad.css",
+    "static/js/main.ee8091e7.js"
+  ]
+}
