@@ -4,7 +4,7 @@
 
 Shoes shop is an Ecommerce website built with React.
 
-:point_right: **See it live [here](https://tendryrakotobe.github.io/shopping-cart/)**
+:point_right: **See it live [here](https://tendryrakotobe.github.io/shoes-shop/)**
 
 ## Features :sparkles:
 
@@ -26,7 +26,7 @@ Shoes shop is an Ecommerce website built with React.
 
 ```bash
 # clone repo
-git clone https://github.com/tendryrakotobe/shopping-cart.git
+git clone https://github.com/tendryrakotobe/shoes-shop.git
 
 # changing directory
 cd shopping-cart
